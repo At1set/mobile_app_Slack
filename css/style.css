@@ -1091,7 +1091,7 @@ main {
 }
 
 .no-webp .header-teams__title::before{
-  background: url("/img/teams/1.jpg") left top no-repeat; }
+  background: url("../img/teams/1.jpg") left top no-repeat; }
 
 .header-teams__title::before {
   content: "";
@@ -1108,7 +1108,7 @@ main {
 }
 
 .no-webp .header-teams__title::after{
-  background: url("/img/teams/4.jpg") left top no-repeat; }
+  background: url("../img/teams/4.jpg") left top no-repeat; }
 
 .header-teams__title::after {
   content: "";
@@ -1136,7 +1136,7 @@ main {
 }
 
 .no-webp .header-teams__subtitle::before{
-  background: url("/img/teams/2.jpg") left top no-repeat; }
+  background: url("../img/teams/2.jpg") left top no-repeat; }
 
 .header-teams__subtitle::before {
   content: "";
@@ -1150,7 +1150,7 @@ main {
 }
 
 .no-webp .header-teams__subtitle::after{
-  background: url("/img/teams/5.jpg") left top no-repeat; }
+  background: url("../img/teams/5.jpg") left top no-repeat; }
 
 .header-teams__subtitle::after {
   content: "";
@@ -1178,7 +1178,7 @@ main {
 }
 
 .no-webp .header-teams__buttons::before{
-  background: url("/img/teams/3.jpg") left top no-repeat; }
+  background: url("../img/teams/3.jpg") left top no-repeat; }
 
 .header-teams__buttons::before {
   content: "";
@@ -1192,7 +1192,7 @@ main {
 }
 
 .no-webp .header-teams__buttons::after{
-  background: url("/img/teams/6.jpg") left top no-repeat; }
+  background: url("../img/teams/6.jpg") left top no-repeat; }
 
 .header-teams__buttons::after {
   content: "";
